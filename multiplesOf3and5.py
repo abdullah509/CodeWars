@@ -18,3 +18,6 @@ def multiplesOf3and5(number):
     print(answer)
 
 multiplesOf3and5(49) #543
+multiplesOf3and5(1000) #233168
+multiplesOf3and5(8456) #16687353.
+multiplesOf3and5(19564) #89301183.
